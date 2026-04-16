@@ -25,6 +25,7 @@ void push_star2(){
             printf("*");
         }
         printf("\n");
+        ///aaaaaaaa
     }
 }
 
